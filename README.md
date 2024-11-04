@@ -13,4 +13,4 @@ Simulador de carro em Python que permite simular o comportamento de um veículo,
 
 1. Clone este repositório:
    ```bash
-   git clone [URL inválido removido]
+   git clone [https://github.com/Alexsandrodev/modelo_carro_python_com_orientacao_a_objetos.git]
