@@ -1,2 +1,16 @@
-# modelo_carro_python_com_orientacao_a_objetos
-Simulador de veículo em Python com orientação a objetos. Simula abastecimento, aceleração, frenagem e calcula autonomia. Ideal para aprendizado de POO e desenvolvimento de jogos. #python #oop #simulador #carro #veículo
+# Simulador de Carro Usando Python e Otientação a Objetos 
+
+**Descrição:**
+
+Simulador de carro em Python que permite simular o comportamento de um veículo, como abastecer, acelerar, frear e calcular a autonomia. Ideal para fins educacionais e como base para projetos mais complexos.
+
+**Tecnologias:**
+
+* Python
+* Orientação a objetos
+
+**Instalação:**
+
+1. Clone este repositório:
+   ```bash
+   git clone [URL inválido removido]
